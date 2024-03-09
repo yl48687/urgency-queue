@@ -23,11 +23,10 @@ Both implementations extend the abstract class `BaseLinkedUrgencyQueue`, which p
 ## File Structure and Contents
 ```
 urgency-queue/
-    ├── src/
-    │   ├── BaseLinkedUrgencyQueue.java
-    │   ├── LinkedUrgencyQueue.java
-    │   └── CustomLinkedUrgencyQueue.java
-    ├── urgency-queue.jar
-    ├── compile.sh
-    └── README.md
+├── README.md
+├── src
+│   ├── BaseLinkedUrgencyQueue.java
+│   ├── CustomLinkedUrgencyQueue.java
+│   └── LinkedUrgencyQueue.java
+└── urgency-queue.jar
 ```
